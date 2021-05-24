@@ -1,0 +1,20 @@
+body{
+  margin-top: 5%;
+  background-image: url(/Part3/Ex1/turtle.jpg);
+  background-size: 100%;
+}
+#counter{
+  margin-left: 45%;
+  height: 160px;
+  width: 160px;
+  background-color: rgb(199, 230, 25);
+  border-radius: 50%;
+  display: inline-block;
+}
+button{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 2rem;
+  padding: 30px;
+  text-align: center;
+  font-weight: bold;
+}

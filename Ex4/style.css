@@ -1,0 +1,28 @@
+#colored-block{
+    margin-top: 25px;
+    margin-left: 35%;
+    margin-bottom: 25px;
+    height: 500px;
+    width: 500px;
+    background-color: blueviolet;
+}
+button{
+    margin-left: 5%;
+    margin-right: 5%;
+    background-color:cyan;
+}
+/* colour classes
+.colour1{
+
+}
+.colour2{
+
+}
+
+/*hide/show classes
+.hide{
+
+}
+.show{
+
+} */
